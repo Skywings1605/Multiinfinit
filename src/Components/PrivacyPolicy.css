@@ -1,0 +1,19 @@
+.cookiepolicy {
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.cookiepolicy p {
+    text-align: justify;
+}
+
+@media only screen and (min-width: 0px) and (max-width:855px) {
+    .cookiepolicy {
+        padding: 5%;
+        /* padding-left: 5%; */
+        /* padding-right: 0%; */
+    }
+    .cookiepolicy>ul>li{
+        text-align: justify;
+    }
+}

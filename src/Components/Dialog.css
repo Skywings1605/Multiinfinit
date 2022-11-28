@@ -1,0 +1,10 @@
+.downbtn {
+    color: "white";
+    font-size: "16px";
+    font-family: 'Rubik';
+    font-weight: "400";
+    border:"1px solid black"
+  }
+  .downbtn:hover {
+    background-color: blue;
+  }
